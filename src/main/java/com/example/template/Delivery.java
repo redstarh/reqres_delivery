@@ -1,6 +1,5 @@
 package com.example.template;
 
-
 import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
